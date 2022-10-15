@@ -13,8 +13,6 @@ public class projectidade {
 	
 	int criancaIdade = 7;
 	
-	String  cpf = "145.785.789-54";
-	
 	System.out.println("Maior idade é = " + maiorIdade);
 	System.out.println("Idade idoso é = " + idosoIdade);
 	System.out.println("Idade jovem é = " + jovemIdade);
